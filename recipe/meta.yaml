@@ -8,9 +8,9 @@ build:
 
 requirements:
   build:
-    - fonts-conda-forge
+    - fonts-anaconda
   run:
-    - fonts-conda-forge
+    - fonts-anaconda
 
 test:
   commands:
